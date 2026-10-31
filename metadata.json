@@ -1,0 +1,8 @@
+{
+  "name": "Campagnon - Circuit Court & Bonnes Affaires du Terroir",
+  "description": "L'application mobile conviviale qui relie directement producteurs locaux et citoyens pour des produits frais de qualité au juste prix, sans intermédiaire.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
